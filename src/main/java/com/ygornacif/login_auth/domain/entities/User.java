@@ -1,4 +1,4 @@
-package com.ygornacif.login_auth.entities;
+package com.ygornacif.login_auth.domain.entities;
 
 import jakarta.persistence.*;
 import lombok.*;
